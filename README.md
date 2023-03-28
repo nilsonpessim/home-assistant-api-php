@@ -1,0 +1,1 @@
+# home-assistant-api-php
